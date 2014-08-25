@@ -1,0 +1,23 @@
+README
+
+Python scripts released to accompany the manuscript entitled “Abnormal Dosage of Ultraconserved Elements is Highly Disfavored in Healthy Cells but not Cancer Cells” by Ruth B. McCole, Chamith Y. Fonseka, Amnon Koren, and C.-ting Wu.
+
+Correspondence to the corresponding author:
+twu@genetics.med.harvard.edu. 
+Department of Genetics,
+77 Avenue Louis Pasteur,
+NRB 264, Boston,
+MA 02115, USA. 
+Phone: (617) 432-4431. 
+Fax (617) 432-7663.
+
+or the first author:
+rmccole@genetics.med.harvard.edu
+
+—————————————————————
+Each script is equipped with a help message, accessed from the command line by using the argument -h.
+
+Example (command prompt represented by $):
+
+$ python clustermodule.py -h
+
